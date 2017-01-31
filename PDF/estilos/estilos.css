@@ -1,0 +1,20 @@
+/* Curso CSS estilos aprenderaprogramar.com*/
+html{
+
+	margin:0;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    margin: 2mm 2mm 2mm 3mm; 
+  
+
+     }
+
+table{
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+font-size: 11px;   
+margin: -2px;  
+width: 900px; 
+border-collapse: collapse;
+}
